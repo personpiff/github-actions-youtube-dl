@@ -18,7 +18,7 @@
 - [x] 使用 GitHub Action 下载视频
 - [x] 从列表中下载多个视频
 - [x] 自定义配置
-- [ ] CDN 加速
+- [x] CDN 加速
 
 ## License
 
